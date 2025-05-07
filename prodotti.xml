@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1001</id>
+    <name>Cuccia Memory Foam per Cani</name>
+    <description>Cuccia ortopedica in memory foam, rivestimento lavabile.</description>
+    <price>79.90</price>
+    <image_url>https://esempio.it/images/cuccia-memory.jpg</image_url>
+    <product_url>https://esempio.it/prodotti/cuccia-memory</product_url>
+    <brand>PetRelax</brand>
+    <category>Cucce</category>
+  </product>
+
+  <product>
+    <id>1002</id>
+    <name>Snack Naturali per Gatti</name>
+    <description>Snack senza additivi, 100% naturali al gusto pollo.</description>
+    <price>4.95</price>
+    <image_url>https://esempio.it/images/snack-gatti.jpg</image_url>
+    <product_url>https://esempio.it/prodotti/snack-gatti</product_url>
+    <brand>CatPure</brand>
+    <category>Alimentazione</category>
+  </product>
+
+  <product>
+    <id>1003</id>
+    <name>Guinzaglio Retrattile XL</name>
+    <description>Guinzaglio estensibile fino a 8m, manico ergonomico antiscivolo.</description>
+    <price>24.90</price>
+    <image_url>https://esempio.it/images/guinzaglio-xl.jpg</image_url>
+    <product_url>https://esempio.it/prodotti/guinzaglio-xl</product_url>
+    <brand>WalkPro</brand>
+    <category>Accessori</category>
+  </product>
+</products>
