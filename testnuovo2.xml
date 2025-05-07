@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Prodotti per animali</title>
+
+    <item>
+      <title>Cuccia Morbida per Cani</title>
+      <link>https://esempio.it/prodotto/cuccia</link>
+      <description>Una cuccia calda e accogliente per il tuo cane.</description>
+      <price>49.99</price>
+      <image>https://esempio.it/immagini/cuccia.jpg</image>
+    </item>
+    <item>
+      <title>Guinzaglio Regolabile in Nylon</title>
+      <link>https://esempio.it/prodotto/guinzaglio</link>
+      <description>Guinzaglio robusto, disponibile in vari colori.</description>
+      <price>15.90</price>
+      <image>https://esempio.it/immagini/guinzaglio.jpg</image>
+    </item>
+    <item>
+      <title>Set Ciotole Antiscivolo</title>
+      <link>https://esempio.it/prodotto/ciotole</link>
+      <description>Due ciotole in acciaio con base antiscivolo.</description>
+      <price>22.50</price>
+      <image>https://esempio.it/immagini/ciotole.jpg</image>
+    </item>
+    <item>
+      <title>Gioco da Masticare per Cani</title>
+      <link>https://esempio.it/prodotto/gioco-masticare</link>
+      <description>Resistente e sicuro, perfetto per dentizione e intrattenimento.</description>
+      <price>9.99</price>
+      <image>https://esempio.it/immagini/gioco.jpg</image>
+    </item>
+    <item>
+      <title>Shampoo Naturale per Animali</title>
+      <link>https://esempio.it/prodotto/shampoo</link>
+      <description>Formula delicata con aloe vera per una pulizia naturale.</description>
+      <price>12.00</price>
+      <image>https://esempio.it/immagini/shampoo.jpg</image>
+    </item>
+
+  </channel>
+</rss>
