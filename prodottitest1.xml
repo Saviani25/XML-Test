@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Feed di Prodotti per Animali</title>
+    <link>https://esempio.it</link>
+    <description>Feed XML dei prodotti per animali</description>
+    
+    <item>
+      <title>Cuccia Memory Foam per Cani</title>
+      <link>https://esempio.it/prodotti/cuccia-memory</link>
+      <description>Cuccia ortopedica in memory foam, rivestimento lavabile.</description>
+      <price>79.90</price>
+      <image_url>https://esempio.it/images/cuccia-memory.jpg</image_url>
+      <category>Cucce</category>
+    </item>
+    
+    <item>
+      <title>Snack Naturali per Gatti</title>
+      <link>https://esempio.it/prodotti/snack-gatti</link>
+      <description>Snack senza additivi, 100% naturali al gusto pollo.</description>
+      <price>4.95</price>
+      <image_url>https://esempio.it/images/snack-gatti.jpg</image_url>
+      <category>Alimentazione</category>
+    </item>
+    
+  </channel>
+</rss>
