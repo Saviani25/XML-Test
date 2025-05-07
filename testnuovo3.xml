@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Prodotti per animali</title>
+
+    <item>
+      <title>Cuccia Morbida per Cani</title>
+      <link>https://esempio.it/prodotto/cuccia</link>
+      <guid isPermaLink="false">cuccia-001</guid>
+      <description>Una cuccia calda e accogliente per il tuo cane.</description>
+      <price>49.99</price>
+      <image>https://esempio.it/immagini/cuccia.jpg</image>
+      <category>Cucce</category>
+    </item>
+
+    <item>
+      <title>Guinzaglio Regolabile in Nylon</title>
+      <link>https://esempio.it/prodotto/guinzaglio</link>
+      <guid isPermaLink="false">guinzaglio-002</guid>
+      <description>Guinzaglio robusto, disponibile in vari colori.</description>
+      <price>15.90</price>
+      <image>https://esempio.it/immagini/guinzaglio.jpg</image>
+      <category>Accessori</category>
+    </item>
+
+    <item>
+      <title>Set Ciotole Antiscivolo</title>
+      <link>https://esempio.it/prodotto/ciotole</link>
+      <guid isPermaLink="false">ciotole-003</guid>
+      <description>Due ciotole in acciaio con base antiscivolo.</description>
+      <price>22.50</price>
+      <image>https://esempio.it/immagini/ciotole.jpg</image>
+      <category>Ciotole</category>
+    </item>
+
+    <item>
+      <title>Gioco da Masticare per Cani</title>
+      <link>https://esempio.it/prodotto/gioco-masticare</link>
+      <guid isPermaLink="false">gioco-004</guid>
+      <description>Resistente e sicuro, perfetto per dentizione e intrattenimento.</description>
+      <price>9.99</price>
+      <image>https://esempio.it/immagini/gioco.jpg</image>
+      <category>Giochi</category>
+    </item>
+
+    <item>
+      <title>Shampoo Naturale per Animali</title>
+      <link>https://esempio.it/prodotto/shampoo</link>
+      <guid isPermaLink="false">shampoo-005</guid>
+      <description>Formula delicata con aloe vera per una pulizia naturale.</description>
+      <price>12.00</price>
+      <image>https://esempio.it/immagini/shampoo.jpg</image>
+      <category>Igiene</category>
+    </item>
+
+  </channel>
+</rss>
