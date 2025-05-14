@@ -9,7 +9,7 @@
       <guid isPermaLink="false">cuccia-001</guid>
       <description>Una cuccia calda e accogliente per il tuo cane.</description>
       <price>49.99</price>
-      <image>https://esempio.it/immagini/cuccia.jpg</image>
+      <image>https://place-puppy.com/300x200</image>
       <category>Cucce</category>
     </item>
 
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">guinzaglio-002</guid>
       <description>Guinzaglio robusto, disponibile in vari colori.</description>
       <price>15.90</price>
-      <image>https://esempio.it/immagini/guinzaglio.jpg</image>
+      <image>https://placehold.co/300x200?text=Guinzaglio</image>
       <category>Accessori</category>
     </item>
 
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">ciotole-003</guid>
       <description>Due ciotole in acciaio con base antiscivolo.</description>
       <price>22.50</price>
-      <image>https://esempio.it/immagini/ciotole.jpg</image>
+      <image>https://placehold.co/300x200?text=Ciotole</image>
       <category>Ciotole</category>
     </item>
 
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">gioco-004</guid>
       <description>Resistente e sicuro, perfetto per dentizione e intrattenimento.</description>
       <price>9.99</price>
-      <image>https://esempio.it/immagini/gioco.jpg</image>
+      <image>https://placehold.co/300x200?text=Gioco+Masticare</image>
       <category>Giochi</category>
     </item>
 
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">shampoo-005</guid>
       <description>Formula delicata con aloe vera per una pulizia naturale.</description>
       <price>12.00</price>
-      <image>https://esempio.it/immagini/shampoo.jpg</image>
+      <image>https://placehold.co/300x200?text=Shampoo</image>
       <category>Igiene</category>
     </item>
 
