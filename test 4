@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Prodotti per animali</title>
+
+    <item>
+      <title>Cuccia Morbida per Cani</title>
+      <link>https://esempio.it/prodotto/cuccia</link>
+      <price>49.99</price>
+      <description>Una cuccia calda e accogliente per il tuo cane.</description>
+      <image>https://place-puppy.com/300x200</image>
+      <category>Cucce</category>
+    </item>
+
+    <item>
+      <title>Guinzaglio Regolabile</title>
+      <link>https://esempio.it/prodotto/guinzaglio</link>
+      <price>15.90</price>
+      <description>Guinzaglio robusto e regolabile.</description>
+      <image>https://placehold.co/300x200?text=Guinzaglio</image>
+      <category>Accessori</category>
+    </item>
+
+    <item>
+      <title>Set Ciotole Antiscivolo</title>
+      <link>https://esempio.it/prodotto/ciotole</link>
+      <price>22.50</price>
+      <description>Set di 2 ciotole in acciaio con base antiscivolo.</description>
+      <image>https://placehold.co/300x200?text=Ciotole</image>
+      <category>Ciotole</category>
+    </item>
+
+    <item>
+      <title>Gioco da Masticare</title>
+      <link>https://esempio.it/prodotto/gioco</link>
+      <price>9.99</price>
+      <description>Gioco resistente per la dentizione del cane.</description>
+      <image>https://placehold.co/300x200?text=Gioco</image>
+      <category>Giochi</category>
+    </item>
+
+    <item>
+      <title>Shampoo Naturale</title>
+      <link>https://esempio.it/prodotto/shampoo</link>
+      <price>12.00</price>
+      <description>Shampoo delicato con aloe vera per animali.</description>
+      <image>https://placehold.co/300x200?text=Shampoo</image>
+      <category>Igiene</category>
+    </item>
+
+  </channel>
+</rss>
